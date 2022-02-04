@@ -1,0 +1,12 @@
+body {
+    background-color: aqua;
+    font-family: 'Supermercado One', cursive;
+    font-size: 50px;
+}
+
+div.main-container {
+    border: 2px solid red;
+}
+header, main {
+    border: 2px solid white;
+}
